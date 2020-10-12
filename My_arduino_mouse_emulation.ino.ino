@@ -1,3 +1,10 @@
+// Hi!
+// I'm working on a mouse using Arduino Micro.
+// You can watch a video of this project on Youtube (here is the link
+// 
+// The code has been made taking the example on Arduino References for the mouse library (either in the IDE).
+//
+
 # include <Mouse.h>
 
 int horzPin = A1;                                                                                 
