@@ -30,9 +30,7 @@ void setup()
   
   digitalWrite(leftButton, HIGH);
   digitalWrite(selPin, HIGH);
-
-  
-                                                                    
+                                                           
   delay(1000); 
                                                                                      
   vertZero = analogRead(vertPin);                                                                
