@@ -1,6 +1,6 @@
 // Hi!
 // I'm working on a mouse using Arduino Micro.
-// You can watch a video of this project on Youtube (here is the link
+// You can watch a video of this project on Youtube (here is the link:https: //www.youtube.com/watch?v=IgJbqrpl0eU&t=54s)
 // 
 // The code has been made taking the example on Arduino References for the mouse library (either in the IDE).
 //
